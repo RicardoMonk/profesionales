@@ -13,14 +13,20 @@ h1{
     margin-top: 2.5rem;
 }
 
-.hove{
+a{
     transition: all 0.2s;
 }
 
-.hove:hover{
+a:hover{
     box-shadow: 0px 10px 9px rgb(208, 206, 206);
 }
 
 div .row{
     justify-content:space-around;
+}
+
+.row a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
 }
