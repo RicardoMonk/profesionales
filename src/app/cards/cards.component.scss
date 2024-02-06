@@ -1,0 +1,26 @@
+.bg-primary{
+    background-color:rgb(130, 233, 209) !important;
+}
+
+.personaUno{
+    margin-top: 1rem;
+    align-items: center;
+    width: 16rem;
+    height: auto;
+}
+
+h1{
+    margin-top: 2.5rem;
+}
+
+.hove{
+    transition: all 0.2s;
+}
+
+.hove:hover{
+    box-shadow: 0px 10px 9px rgb(208, 206, 206);
+}
+
+div .row{
+    justify-content:space-around;
+}
